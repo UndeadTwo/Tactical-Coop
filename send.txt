@@ -1,0 +1,6 @@
+#
+# These files aren't fully sent to the client because they
+# should never change. Instead we send the CRC of this file
+# so the client can load their version - and we know it's kewl.
+#
+# Copied from base gamemode, nothing to send yet.

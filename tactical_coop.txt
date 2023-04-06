@@ -1,0 +1,20 @@
+"tactical_coop"
+{
+	"title"		"Tactical Coop"
+	"base"		"base"
+	"maps"		"^tco_"
+	"category"	"pve"
+	"menusystem" "1"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"tco_difficulty"
+			"text"		"Gamemode Difficulty"
+			"help"		"How hard this should be"
+			"type"		"Numeric"
+			"default"	"2"
+		}
+	}
+}
